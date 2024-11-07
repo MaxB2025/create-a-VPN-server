@@ -3,7 +3,9 @@
 Download an OVF sample file for a virtual machine. It's initially designed for ESXi hypervisor which only runs on a bare metal, but in my case Oracle VirtualBox version 7.0.18
 perfectly runs my new virtual machine based on this file.
 
-![download OVF](https://github.com/user-attachments/assets/b8d0acca-37bf-4ab8-8fa1-c2eac56d4207)
+<p align="center">
+<img src="[https://github.com/user-attachments/assets/32aeb6fd-fbfa-4b54-a15a-8f737250c675](https://github.com/user-attachments/assets/b8d0acca-37bf-4ab8-8fa1-c2eac56d4207)">
+</p>
 
 Open your downloaded file in your virtual hypervisor. It is already set, no additional changes in configuration required.
 
