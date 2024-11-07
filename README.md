@@ -1,4 +1,4 @@
-##Creating a VPN server on Linux
+# Create a VPN server on Linux
 ### To create a VPN server on Linux with OpenVPN OVF sample file you should go through these steps:
 Download an OVF sample file for a virtual machine. It's initially designed for ESXi hypervisor which only runs on a bare metal, but in my case Oracle VirtualBox version 7.0.18
 perfectly runs my new virtual machine based on this file.
